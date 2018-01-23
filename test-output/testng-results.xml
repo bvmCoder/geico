@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15840" started-at="2018-01-23T12:53:09Z" finished-at="2018-01-23T12:53:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15840" started-at="2018-01-23T12:53:09Z" finished-at="2018-01-23T12:53:25Z">
+      <class name="com.geico.qa.DataDrivenTest.GeicoTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.geico.qa.DataDrivenTest.GeicoTest@2a556333]" name="setUp" is-config="true" duration-ms="3647" started-at="2018-01-23T07:53:10Z" finished-at="2018-01-23T07:53:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="geicoRegTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.geico.qa.DataDrivenTest.GeicoTest@2a556333]" name="geicoRegTest" duration-ms="1891" started-at="2018-01-23T07:53:13Z" data-provider="getTestData" finished-at="2018-01-23T07:53:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jinal]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Patel]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[179th street ]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[89-16]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[11426.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[23.0]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1987.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- geicoRegTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.geico.qa.DataDrivenTest.GeicoTest@2a556333]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-01-23T07:53:15Z" finished-at="2018-01-23T07:53:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.geico.qa.DataDrivenTest.GeicoTest@2a556333]" name="setUp" is-config="true" duration-ms="2791" started-at="2018-01-23T07:53:15Z" finished-at="2018-01-23T07:53:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="geicoRegTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.geico.qa.DataDrivenTest.GeicoTest@2a556333]" name="geicoRegTest" duration-ms="1939" started-at="2018-01-23T07:53:18Z" data-provider="getTestData" finished-at="2018-01-23T07:53:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[D]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[249th st]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[111.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[11010.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[12.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[21.0]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1982.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- geicoRegTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.geico.qa.DataDrivenTest.GeicoTest@2a556333]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-01-23T07:53:20Z" finished-at="2018-01-23T07:53:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.geico.qa.DataDrivenTest.GeicoTest@2a556333]" name="setUp" is-config="true" duration-ms="3353" started-at="2018-01-23T07:53:20Z" finished-at="2018-01-23T07:53:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="geicoRegTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.geico.qa.DataDrivenTest.GeicoTest@2a556333]" name="geicoRegTest" duration-ms="1777" started-at="2018-01-23T07:53:23Z" data-provider="getTestData" finished-at="2018-01-23T07:53:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Peter]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[T]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[179th st]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[222.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[11426.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1983.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- geicoRegTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.geico.qa.DataDrivenTest.GeicoTest@2a556333]" name="tearDown" is-config="true" duration-ms="1" started-at="2018-01-23T07:53:25Z" finished-at="2018-01-23T07:53:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.geico.qa.DataDrivenTest.GeicoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
